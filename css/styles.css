@@ -183,7 +183,7 @@ body {
 
   .menu-link:hover,
   .menu-link:focus {
-    color: var(--accent-color);
+    color: var(--pointing-state-color);
   }
 
   .page-nav,
@@ -266,7 +266,7 @@ body {
 
 .address-link:hover,
 .address-link:focus {
-  color: var(--accent-color);
+  color: var(--pointing-state-color);
 }
 /* ======================= /HEADER ===================== */
 
